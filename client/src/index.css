@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.App {
+  margin: 2em 5em;
+}
+
+.D\(ib\) {
+  display: inline-block;
+}
+
+.icon-spacer {
+  margin-right: 10px;
+}
+
+.selectable {
+  color: gray;
+}
+
+.selectable:hover {
+  color: black;
+}
+
+.selected.like {
+  color: green;
+}
+.selected.dislike {
+  color:red;
+}
