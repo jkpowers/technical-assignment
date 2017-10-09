@@ -6,7 +6,6 @@ import Ratings from './Ratings';
 
 class App extends Component {
   state = {
-    selectedCount : 0,
     ratingsCount  : {},
     tools         : []
   };
